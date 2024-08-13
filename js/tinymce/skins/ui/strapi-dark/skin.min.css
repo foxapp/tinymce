@@ -1,7 +1,7 @@
 .tox {
     box-shadow: none;
     box-sizing: content-box;
-    color: #222f3e;
+    color: #212134;
     cursor: auto;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-size: 16px;
@@ -84,7 +84,7 @@
 }
 
 .tox.tox-tinymce-inline .tox-editor-header {
-    background-color: #222f3e;
+    background-color: #212134;
     border: 2px solid #161f29;
     border-radius: 10px;
     box-shadow: none;
@@ -180,17 +180,17 @@ button::-moz-focus-inner {
 
 .tox .tox-dialog__body-content .accessibility-issue--warn a.tox-button--naked.tox-button--icon {
     background-color: #ffe89d;
-    color: #222f3e
+    color: #212134
 }
 
 .tox .tox-dialog__body-content .accessibility-issue--warn a.tox-button--naked.tox-button--icon:focus, .tox .tox-dialog__body-content .accessibility-issue--warn a.tox-button--naked.tox-button--icon:hover {
     background-color: #f2d574;
-    color: #222f3e
+    color: #212134
 }
 
 .tox .tox-dialog__body-content .accessibility-issue--warn a.tox-button--naked.tox-button--icon:active {
     background-color: #e8c657;
-    color: #222f3e
+    color: #212134
 }
 
 .tox .tox-dialog__body-content .accessibility-issue--error .accessibility-issue__description {
@@ -208,17 +208,17 @@ button::-moz-focus-inner {
 
 .tox .tox-dialog__body-content .accessibility-issue--error a.tox-button--naked.tox-button--icon {
     background-color: #f2bfbf;
-    color: #222f3e
+    color: #212134
 }
 
 .tox .tox-dialog__body-content .accessibility-issue--error a.tox-button--naked.tox-button--icon:focus, .tox .tox-dialog__body-content .accessibility-issue--error a.tox-button--naked.tox-button--icon:hover {
     background-color: #e9a4a4;
-    color: #222f3e
+    color: #212134
 }
 
 .tox .tox-dialog__body-content .accessibility-issue--error a.tox-button--naked.tox-button--icon:active {
     background-color: #ee9494;
-    color: #222f3e
+    color: #212134
 }
 
 .tox .tox-dialog__body-content .accessibility-issue--success .accessibility-issue__description {
@@ -1364,7 +1364,7 @@ button::-moz-focus-inner {
 .tox div.tox-swatch:not(.tox-swatch--remove) svg path {
     fill: #fff;
     paint-order: stroke;
-    stroke: #222f3e;
+    stroke: #212134;
     stroke-width: 2px
 }
 
@@ -1646,7 +1646,7 @@ button::-moz-focus-inner {
 }
 
 .tox .tox-dialog-wrap__backdrop--opaque {
-    background-color: #222f3e
+    background-color: #212134
 }
 
 .tox .tox-dialog {
@@ -2196,7 +2196,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox:not(.tox-tinymce-inline) .tox-editor-header {
-    background-color: #222f3e;
+    background-color: #212134;
     border-bottom: 1px solid rgba(255, 255, 255, .15);
     box-shadow: none;
     padding: 4px 0
@@ -2212,7 +2212,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox:not(.tox-tinymce-inline).tox-tinymce--toolbar-sticky-on .tox-editor-header {
-    background-color: #222f3e;
+    background-color: #212134;
     box-shadow: none;
     padding: 4px 0
 }
@@ -2519,7 +2519,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-textarea[disabled], .tox .tox-textfield[disabled] {
-    background-color: #222f3e;
+    background-color: #212134;
     color: rgba(255, 255, 255, .85);
     cursor: not-allowed
 }
@@ -2827,7 +2827,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-insert-table-picker {
-    background-color: #222f3e;
+    background-color: #212134;
     display: flex;
     flex-wrap: wrap;
     width: 170px
@@ -2915,7 +2915,7 @@ body.tox-dialog__disable-scroll {
 
 .tox .tox-menubar {
     background: repeating-linear-gradient(transparent 0 1px, transparent 1px 39px) center top 39px/100% calc(100% - 39px) no-repeat;
-    background-color: #222f3e;
+    background-color: #212134;
     display: flex;
     flex: 0 0 auto;
     flex-shrink: 0;
@@ -2931,7 +2931,7 @@ body.tox-dialog__disable-scroll {
 
 .tox .tox-promotion {
     background: repeating-linear-gradient(transparent 0 1px, transparent 1px 39px) center top 39px/100% calc(100% - 39px) no-repeat;
-    background-color: #222f3e;
+    background-color: #212134;
     grid-column: 2;
     grid-row: 1;
     padding-inline-end: 8px;
@@ -2962,7 +2962,7 @@ body.tox-dialog__disable-scroll {
 
 .tox .tox-mbtn {
     align-items: center;
-    background: #222f3e;
+    background: #212134;
     border: 0;
     border-radius: 3px;
     box-shadow: none;
@@ -2982,7 +2982,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-mbtn[disabled] {
-    background-color: #222f3e;
+    background-color: #212134;
     border: 0;
     box-shadow: none;
     color: rgba(255, 255, 255, .5);
@@ -2990,7 +2990,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-mbtn:focus:not(:disabled) {
-    background: #222f3e;
+    background: #212134;
     border: 0;
     box-shadow: none;
     color: #fff;
@@ -3159,7 +3159,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-notification--warn, .tox .tox-notification--warning {
-    background-color: #222f3e;
+    background-color: #212134;
     border-color: rgba(255, 255, 255, .15);
     color: #fff0b3
 }
@@ -3323,7 +3323,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-pop__dialog {
-    background-color: #222f3e;
+    background-color: #212134;
     border: 1px solid #161f29;
     border-radius: 6px;
     box-shadow: 0 0 2px 0 rgba(34, 47, 62, .2), 0 4px 8px 0 rgba(34, 47, 62, .15);
@@ -3367,7 +3367,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-pop.tox-pop--bottom::after {
-    border-color: #222f3e transparent transparent transparent;
+    border-color: #212134 transparent transparent transparent;
     border-width: 8px;
     margin-left: -8px;
     margin-top: -1px
@@ -3386,7 +3386,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-pop.tox-pop--top::after {
-    border-color: transparent transparent #222f3e transparent;
+    border-color: transparent transparent #212134 transparent;
     border-width: 8px;
     margin-left: -8px;
     margin-top: 1px
@@ -3405,7 +3405,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-pop.tox-pop--left::after {
-    border-color: transparent #222f3e transparent transparent;
+    border-color: transparent #212134 transparent transparent;
     border-width: 8px;
     margin-left: -15px
 }
@@ -3423,7 +3423,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-pop.tox-pop--right::after {
-    border-color: transparent transparent transparent #222f3e;
+    border-color: transparent transparent transparent #212134;
     border-width: 8px;
     margin-left: -1px
 }
@@ -3450,7 +3450,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-sidebar {
-    background-color: #222f3e;
+    background-color: #212134;
     display: flex;
     flex-direction: row;
     justify-content: flex-end
@@ -3584,7 +3584,7 @@ body.tox-dialog__disable-scroll {
 
 .tox .tox-statusbar {
     align-items: center;
-    background-color: #222f3e;
+    background-color: #212134;
     border-top: 1px solid rgba(255, 255, 255, .15);
     color: rgba(255, 255, 255, .75);
     display: flex;
@@ -3801,7 +3801,7 @@ body.tox-dialog__disable-scroll {
 
 .tox .tox-tbtn {
     align-items: center;
-    background: #222f3e;
+    background: #212134;
     border: 0;
     border-radius: 3px;
     box-shadow: none;
@@ -3857,7 +3857,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-tbtn:focus {
-    background: #222f3e;
+    background: #212134;
     border: 0;
     box-shadow: none;
     position: relative;
@@ -3908,7 +3908,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-tbtn--disabled, .tox .tox-tbtn--disabled:hover, .tox .tox-tbtn:disabled, .tox .tox-tbtn:disabled:hover {
-    background: #222f3e;
+    background: #212134;
     border: 0;
     box-shadow: none;
     color: rgba(255, 255, 255, .5);
@@ -4095,7 +4095,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-number-input input:disabled {
-    background: #222f3e;
+    background: #212134;
     border: 0;
     box-shadow: none;
     color: rgba(255, 255, 255, .5);
@@ -4178,7 +4178,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-number-input button:disabled {
-    background: #222f3e;
+    background: #212134;
     border: 0;
     box-shadow: none;
     color: rgba(255, 255, 255, .5);
@@ -4270,7 +4270,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-split-button:focus {
-    background: #222f3e;
+    background: #212134;
     box-shadow: none;
     color: #fff;
     position: relative;
@@ -4332,7 +4332,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-split-button.tox-tbtn--disabled .tox-tbtn:focus, .tox .tox-split-button.tox-tbtn--disabled .tox-tbtn:hover, .tox .tox-split-button.tox-tbtn--disabled:focus, .tox .tox-split-button.tox-tbtn--disabled:hover {
-    background: #222f3e;
+    background: #212134;
     box-shadow: none;
     color: rgba(255, 255, 255, .5)
 }
@@ -4354,12 +4354,12 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-toolbar-overlord {
-    background-color: #222f3e
+    background-color: #212134
 }
 
 .tox .tox-toolbar, .tox .tox-toolbar__overflow, .tox .tox-toolbar__primary {
     background-attachment: local;
-    background-color: #222f3e;
+    background-color: #212134;
     background-image: repeating-linear-gradient(rgba(255, 255, 255, .15) 0 1px, transparent 1px 39px);
     background-position: center top 40px;
     background-repeat: no-repeat;
@@ -4432,7 +4432,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox.tox-tinymce-aux .tox-toolbar__overflow {
-    background-color: #222f3e;
+    background-color: #212134;
     background-position: center top 43px;
     background-size: calc(100% - 8px * 2) calc(100% - 51px);
     border: none;
@@ -4778,7 +4778,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-revisionhistory {
-    background-color: #222f3e;
+    background-color: #212134;
     border-top: 1px solid rgba(255, 255, 255, .15);
     display: flex;
     flex: 1;
@@ -4807,7 +4807,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-revisionhistory__sidebar .tox-revisionhistory__sidebar-title {
-    background-color: #222f3e;
+    background-color: #212134;
     box-shadow: 0 4px 8px 0 rgba(34, 47, 62, .1);
     color: #fff;
     font-size: 20px;
@@ -4856,7 +4856,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-revisionhistory__sidebar .tox-revisionhistory__revisions .tox-revisionhistory__card {
-    background-color: #222f3e;
+    background-color: #212134;
     border: 1px solid rgba(255, 255, 255, .15);
     border-radius: 6px;
     color: #fff;
@@ -4979,7 +4979,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-view-wrap, .tox .tox-view-wrap__slot-container {
-    background-color: #222f3e;
+    background-color: #212134;
     display: flex;
     flex: 1;
     flex-direction: column;
