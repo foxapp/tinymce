@@ -816,7 +816,7 @@ button::-moz-focus-inner {
 }
 
 .tox .tox-collection--toolbar .tox-collection__item--enabled, .tox .tox-collection--toolbar .tox-collection__item--enabled.tox-collection__item--active, .tox .tox-collection--toolbar .tox-collection__item--enabled.tox-collection__item--active:hover {
-    background-color: #599fef;
+    background-color: #7b79ff;
     color: #fff
 }
 
@@ -833,12 +833,12 @@ button::-moz-focus-inner {
 }
 
 .tox .tox-collection--toolbar .tox-collection__item--active:hover {
-    background-color: #2f4055;
+    background-color: #181826;
     color: #fff
 }
 
 .tox .tox-collection--toolbar .tox-collection__item--active:focus {
-    background-color: #2f4055;
+    background-color: #181826;
     color: #fff
 }
 
@@ -860,12 +860,12 @@ button::-moz-focus-inner {
 }
 
 .tox .tox-collection--grid .tox-collection__item--enabled {
-    background-color: #599fef;
+    background-color: #7b79ff;
     color: #fff
 }
 
 .tox .tox-collection--grid .tox-collection__item--active:not(.tox-collection__item--state-disabled) {
-    background-color: #2f4055;
+    background-color: #181826;
     color: #fff;
     position: relative;
     z-index: 1
@@ -1350,7 +1350,7 @@ button::-moz-focus-inner {
 }
 
 .tox .tox-swatches__picker-btn:hover {
-    background: #2f4055
+    background: #181826
 }
 
 .tox div.tox-swatch:not(.tox-swatch--remove) svg {
@@ -3016,14 +3016,14 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-mbtn--active, .tox .tox-mbtn:not(:disabled).tox-mbtn--active:focus {
-    background: #599fef;
+    background: #7b79ff;
     border: 0;
     box-shadow: none;
     color: #fff
 }
 
 .tox .tox-mbtn:hover:not(:disabled):not(.tox-mbtn--active) {
-    background: #2f4055;
+    background: #181826;
     border: 0;
     box-shadow: none;
     color: #fff
@@ -3882,7 +3882,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-tbtn:hover {
-    background: #2f4055;
+    background: #181826;
     border: 0;
     box-shadow: none;
     color: #fff
@@ -3893,7 +3893,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-tbtn:active {
-    background: #599fef;
+    background: #7b79ff;
     border: 0;
     box-shadow: none;
     color: #fff
@@ -3920,7 +3920,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-tbtn--active, .tox .tox-tbtn--enabled, .tox .tox-tbtn--enabled:focus, .tox .tox-tbtn--enabled:hover {
-    background: #599fef;
+    background: #7b79ff;
     border: 0;
     box-shadow: none;
     color: #fff;
@@ -4000,7 +4000,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-number-input {
-    background: #2f4055;
+    background: #181826;
     border-radius: 3px;
     display: flex;
     margin: 6px 1px 5px 0;
@@ -4009,7 +4009,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-number-input:focus {
-    background: #2f4055
+    background: #181826
 }
 
 .tox .tox-number-input:focus::after {
@@ -4037,7 +4037,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-number-input .tox-input-wrapper:focus {
-    background-color: #2f4055;
+    background-color: #181826;
     z-index: 1
 }
 
@@ -4086,12 +4086,12 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-number-input input:hover {
-    background: #2f4055;
+    background: #181826;
     color: #fff
 }
 
 .tox .tox-number-input input:focus {
-    background-color: #2f4055
+    background-color: #181826
 }
 
 .tox .tox-number-input input:disabled {
@@ -4134,7 +4134,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-number-input button:focus {
-    background: #2f4055;
+    background: #181826;
     z-index: 1
 }
 
@@ -4156,7 +4156,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-number-input button:hover {
-    background: #2f4055;
+    background: #181826;
     border: 0;
     box-shadow: none;
     color: #fff
@@ -4167,7 +4167,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-number-input button:active {
-    background: #599fef;
+    background: #7b79ff;
     border: 0;
     box-shadow: none;
     color: #fff
@@ -4198,7 +4198,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-number-input:focus:not(:active) > .tox-input-wrapper, .tox .tox-number-input:focus:not(:active) > button {
-    background: #2f4055
+    background: #181826
 }
 
 .tox .tox-tbtn--select {
@@ -4235,11 +4235,11 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-tbtn--bespoke {
-    background: #2f4055
+    background: #181826
 }
 
 .tox .tox-tbtn--bespoke:focus {
-    background: #2f4055
+    background: #181826
 }
 
 .tox .tox-tbtn--bespoke + .tox-tbtn--bespoke {
@@ -4266,7 +4266,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-split-button:hover {
-    box-shadow: 0 0 0 1px #2f4055 inset
+    box-shadow: 0 0 0 1px #181826 inset
 }
 
 .tox .tox-split-button:focus {
@@ -4592,13 +4592,13 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-tree .tox-trbtn:focus {
-    background: #2f4055;
+    background: #181826;
     border: 0;
     box-shadow: none
 }
 
 .tox .tox-tree .tox-trbtn:hover {
-    background: #2f4055;
+    background: #181826;
     border: 0;
     box-shadow: none;
     color: #fff
@@ -4609,7 +4609,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-tree .tox-trbtn:active {
-    background: #599fef;
+    background: #7b79ff;
     border: 0;
     box-shadow: none;
     color: #fff
@@ -4632,7 +4632,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-tree .tox-trbtn--enabled, .tox .tox-tree .tox-trbtn--enabled:hover {
-    background: #599fef;
+    background: #7b79ff;
     border: 0;
     box-shadow: none;
     color: #fff
