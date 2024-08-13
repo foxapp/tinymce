@@ -61,7 +61,7 @@
 }
 
 .tox-tinymce {
-    border: 2px solid #161f29;
+    border: 2px solid #4a4a6a;
     border-radius: 10px;
     box-shadow: none;
     box-sizing: border-box;
@@ -845,7 +845,7 @@ button::-moz-focus-inner {
 .tox .tox-collection--toolbar .tox-collection__item--active:focus::after {
     border-radius: 3px;
     bottom: 0;
-    box-shadow: 0 0 0 2px #fff;
+    box-shadow: 0 0 0 1px #fff;
     content: '';
     left: 0;
     position: absolute;
@@ -855,7 +855,7 @@ button::-moz-focus-inner {
 
 @media (forced-colors: active) {
     .tox .tox-collection--toolbar .tox-collection__item--active:focus::after {
-        border: 2px solid highlight
+        border: 1px solid highlight
     }
 }
 
@@ -2196,7 +2196,7 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox:not(.tox-tinymce-inline) .tox-editor-header {
-    background-color: #212134;
+    background-color: #181826;
     border-bottom: 1px solid rgba(255, 255, 255, .15);
     box-shadow: none;
     padding: 4px 0
@@ -2918,7 +2918,7 @@ body.tox-dialog__disable-scroll {
 
 .tox .tox-menubar {
     background: repeating-linear-gradient(transparent 0 1px, transparent 1px 39px) center top 39px/100% calc(100% - 39px) no-repeat;
-    background-color: #212134;
+    background-color: #181826;
     display: flex;
     flex: 0 0 auto;
     flex-shrink: 0;
@@ -2965,7 +2965,7 @@ body.tox-dialog__disable-scroll {
 
 .tox .tox-mbtn {
     align-items: center;
-    background: #212134;
+    background: #181826;
     border: 0;
     border-radius: 3px;
     box-shadow: none;
@@ -3804,7 +3804,7 @@ body.tox-dialog__disable-scroll {
 
 .tox .tox-tbtn {
     align-items: center;
-    background: #212134;
+    background: #181826;
     border: 0;
     border-radius: 3px;
     box-shadow: none;
@@ -4362,7 +4362,7 @@ body.tox-dialog__disable-scroll {
 
 .tox .tox-toolbar, .tox .tox-toolbar__overflow, .tox .tox-toolbar__primary {
     background-attachment: local;
-    background-color: #212134;
+    background-color: #181826;
     background-image: repeating-linear-gradient(rgba(255, 255, 255, .15) 0 1px, transparent 1px 39px);
     background-position: center top 40px;
     background-repeat: no-repeat;
