@@ -2164,7 +2164,7 @@ body.tox-dialog__disable-scroll {
     }
 }
 
-4945ff {
+.tox .tox-edit-area__iframe {
     background-color: #4a4a6a;
     border: 0;
     box-sizing: border-box;
