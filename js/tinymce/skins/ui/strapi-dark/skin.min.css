@@ -491,17 +491,17 @@ button::-moz-focus-inner {
 }
 
 .tox .tox-button--secondary:focus:not(:disabled) {
-    background-color: #34485f;
+    background-color: #181826;
     background-image: none;
-    border-color: #34485f;
+    border-color: #181826;
     box-shadow: none;
     color: #fff
 }
 
 .tox .tox-button--secondary:hover:not(:disabled) {
-    background-color: #34485f;
+    background-color: #181826;
     background-image: none;
-    border-color: #34485f;
+    border-color: #181826;
     box-shadow: none;
     color: #fff
 }
