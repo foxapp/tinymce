@@ -461,11 +461,11 @@ button::-moz-focus-inner {
 }
 
 .tox .tox-button--secondary {
-    background-color: #3d546f;
+    background-color: #4a4a6a;
     background-image: none;
     background-position: 0 0;
     background-repeat: repeat;
-    border-color: #3d546f;
+    border-color: #4a4a6a;
     border-radius: 6px;
     border-style: solid;
     border-width: 1px;
@@ -483,9 +483,9 @@ button::-moz-focus-inner {
 }
 
 .tox .tox-button--secondary[disabled] {
-    background-color: #3d546f;
+    background-color: #4a4a6a;
     background-image: none;
-    border-color: #3d546f;
+    border-color: #4a4a6a;
     box-shadow: none;
     color: rgba(255, 255, 255, .5)
 }
@@ -2577,7 +2577,8 @@ body.tox-dialog__disable-scroll {
 .tox .tox-listbox__select-label {
     cursor: default;
     flex: 1;
-    margin: 0 4px
+    margin: 0 4px;
+    background: #181826;
 }
 
 .tox .tox-listbox__select-chevron {
@@ -2692,11 +2693,13 @@ body.tox-dialog__disable-scroll {
 }
 
 .tox .tox-textarea-wrap .tox-textarea {
-    border: none
+    border: none;
+    background: #181826;
 }
 
 .tox .tox-textarea-wrap .tox-textarea:focus {
-    border: none
+    border: none;
+    background: #181826;
 }
 
 .tox-fullscreen {
